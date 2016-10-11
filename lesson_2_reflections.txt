@@ -1,2 +1,5 @@
-What happens when you initialize a repository? Why do you need to do it?
+What happens when you initialize a repository?
+preps all your files to be added to staging then committed.
+Why do you need to do it?
+Otherwise detached head error will be thrown
 
